@@ -1,6 +1,6 @@
 Install python2 or install anaconda and run:
 
-conda create -n python2 python=2.7 anaconda
+conda create -n python2 python=2.7 anaconda  
 conda activate python2
 
 Then cd into the directory with python files and run:
